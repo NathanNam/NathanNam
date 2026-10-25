@@ -1,6 +1,6 @@
 ### Hi, I'm Nathan 👋
 
-Principal Product Manager at [Archetype AI](https://www.archetypeai.io). More about me at **[nathannam.com](https://nathannam.com)**.
+Principal Product Manager at [Archetype AI](https://www.archetypeai.io). More about me at **[nathannam.com](https://www.nathannam.com)**.
 
 Side projects I build and keep running:
 
