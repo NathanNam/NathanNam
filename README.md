@@ -13,5 +13,6 @@ Side projects I build and keep running:
 | **[Board Game of the Week](https://boardgameweek.vercel.app)** | One board game a week, tied to the news: a family game, a solo pick, how to learn it, and talking points for the table. · [code](https://github.com/NathanNam/boardgameweek) |
 | **[Incident Commander](https://incident-commander-game.vercel.app)** | A retro arcade game about being on call: steer the commander, resolve every alert, and don't run into your own trail. Go compiled to WebAssembly. · [code](https://github.com/NathanNam/incident-commander-game) |
 | **[Tech Terminal](https://techterminal.vercel.app)** | Big tech stocks on a trading-terminal board: live quotes, sparklines and 1D–1Y charts, with a command line and function keys. · [code](https://github.com/NathanNam/tech-stock-tracker) |
+| **[Bay Area AAU Tryouts](https://aau-basketball-tryouts.vercel.app)** | High school AAU basketball tryouts around the Bay Area in one place, checked by hand every week during tryout season. · [code](https://github.com/NathanNam/aau-basketball-tryouts) |
 
 Find me on [LinkedIn](https://www.linkedin.com/in/nathannam) and [X](https://x.com/nathannam).
