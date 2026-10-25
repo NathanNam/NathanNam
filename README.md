@@ -1,5 +1,7 @@
 ### Hi, I'm Nathan 👋
 
+Principal Product Manager at [Archetype AI](https://www.archetypeai.io). More about me at **[nathannam.com](https://nathannam.com)**.
+
 Side projects I build and keep running:
 
 | | |
@@ -10,4 +12,4 @@ Side projects I build and keep running:
 | **[Probable Starters](https://mlb-probable-starters.vercel.app)** | Every MLB game's probable starters as a daily set of vintage baseball cards, with a rotation watch for the arms you want to see at your ballpark. · [code](https://github.com/NathanNam/mlb-probable-starters) |
 | **[Board Game of the Week](https://boardgameweek.vercel.app)** | One board game a week, tied to the news: a family game, a solo pick, how to learn it, and talking points for the table. · [code](https://github.com/NathanNam/boardgameweek) |
 
-Find me on [LinkedIn](https://www.linkedin.com/in/nathannam).
+Find me on [LinkedIn](https://www.linkedin.com/in/nathannam) and [X](https://x.com/nathannam).
